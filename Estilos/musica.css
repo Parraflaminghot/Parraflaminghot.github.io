@@ -1,0 +1,25 @@
+html{
+    background-color:cadetblue;
+}
+h1{
+    text-align: center;
+    font-style: italic;
+}
+h3{
+    text-align: center;
+    font-style: italic;
+}
+#musica{
+    width: 40%;
+    padding-left: 290px;
+}
+#coso{
+    float: right;
+    margin: 20px;
+    border: 20px pink double;
+    border-radius: 10px;
+}
+p{
+    font-style: italic;
+    
+}

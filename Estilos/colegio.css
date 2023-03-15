@@ -1,0 +1,22 @@
+#titulowow{
+    text-align: center;
+    font-style: italic;
+    
+}
+#sub{
+    text-align: center;
+    font-style: italic;
+}
+.p{
+    font-style: oblique;
+    text-align: justify;
+    margin: 20px;
+    padding-top:10px;
+}
+#antiguo{
+    width: 30%;
+    float: left;
+    display: inline;
+    margin: 15px;
+    padding: 5px;
+}
